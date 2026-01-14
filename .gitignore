@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.env
+*.csv
+# If you are using a secrets file for passwords, ignore it:
+secrets.toml
