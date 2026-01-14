@@ -3,8 +3,8 @@
 ## Overview
 This is a Streamlit reporting application utilizing the Pagila PostgreSQL database. It generates visualizations for rental categories and trends over time.
 
-## [cite_start]AI Usage Documentation [cite: 119]
-**Tool Used:** Gemini (or ChatGPT/Claude)
+## AI Usage Documentation
+**Tool Used:** Gemini 
 
 **Prompts Used:**
 1. "Create a Streamlit app that connects to PostgreSQL and shows a bar chart of film categories."
